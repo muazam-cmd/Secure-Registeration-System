@@ -33,9 +33,9 @@ To run the project use command
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/7tStbFm)
-![App Screenshot](https://ibb.co/wJfkpFD)
-![App Screenshot](https://ibb.co/dJ7LyV8)
+![App Screenshot](https://i.ibb.co/Kx5xmHv/ss-1.png)
+![App Screenshot](https://i.ibb.co/DGZJwH3/ss-2.png)
+![App Screenshot](https://i.ibb.co/rfvcJzD/ss-3.png)
 
 
 
