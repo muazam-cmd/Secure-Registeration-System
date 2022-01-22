@@ -15,14 +15,6 @@ A responsive registration and login system. Developed using PHP and HTML/CSS usi
 
 
 
-## Execution
-
-To run the project use command
-
-```bash
-  php script.php
-```
-
 
 ## Tech Stack
 
